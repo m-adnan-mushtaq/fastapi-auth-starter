@@ -1,4 +1,4 @@
-# SitenSight API
+# Fast API Starter Modular Architecture Boiler Plate
 
 FastAPI app with async SQLAlchemy 2, Alembic, PostgreSQL and pgvector. Feature-based project structure.
 

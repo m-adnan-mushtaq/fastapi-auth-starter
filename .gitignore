@@ -132,6 +132,7 @@ ENV/
 env.bak/
 venv.bak/
 
+temp_auto_push.bat
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -266,3 +267,4 @@ fabric.properties
 
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
+temp_interactive_push.bat
